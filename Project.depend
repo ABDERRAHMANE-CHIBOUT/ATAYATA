@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1697572500 source:c:\users\pc click plus\documents\nouveau dossier\mini projet\project\course.c
+	"course.h"
+	<stdlib.h>
+
+1697572563 c:\users\pc click plus\documents\nouveau dossier\mini projet\project\course.h
+
+1697572660 source:c:\users\pc click plus\documents\nouveau dossier\mini projet\project\followcourse.c
+	"followCourse.h"
+	<stdlib.h>
+
+1697572654 c:\users\pc click plus\documents\nouveau dossier\mini projet\project\followcourse.h
+
+1697644793 source:c:\users\pc click plus\documents\nouveau dossier\mini projet\project\student.c
+	"student.h"
+	<stdlib.h>
+	<string.h>
+
+1697639527 c:\users\pc click plus\documents\nouveau dossier\mini projet\project\student.h
+
+1697642657 source:c:\users\pc click plus\documents\nouveau dossier\mini projet\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"followCourse.h"
+	"course.h"
+	"student.h"
+
+1701187489 source:c:\users\pc click plus\downloads\miniprojet1\miniprojet\course.c
+	"course.h"
+	<stdlib.h>
+
+1701187236 c:\users\pc click plus\downloads\miniprojet1\miniprojet\course.h
+
+1701110826 source:c:\users\pc click plus\downloads\miniprojet1\miniprojet\followcourse.c
+	"followCourse.h"
+	<stdlib.h>
+
+1701110826 c:\users\pc click plus\downloads\miniprojet1\miniprojet\followcourse.h
+
+1701184607 source:c:\users\pc click plus\downloads\miniprojet1\miniprojet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"followCourse.h"
+	"course.h"
+	"student.h"
+
+1701110826 c:\users\pc click plus\downloads\miniprojet1\miniprojet\student.h
+
+1701187365 source:c:\users\pc click plus\downloads\miniprojet1\miniprojet\student.c
+	"student.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1704324165 source:c:\users\ssdatlas\desktop\projet\miniprojet2\course.c
+	"course.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1704322240 c:\users\ssdatlas\desktop\projet\miniprojet2\course.h
+	<stdio.h>
+	<stdbool.h>
+
+1704324654 source:c:\users\ssdatlas\desktop\projet\miniprojet2\followcourse.c
+	"followCourse.h"
+	"course.h"
+	"student.h"
+	<stdlib.h>
+
+1704324403 c:\users\ssdatlas\desktop\projet\miniprojet2\followcourse.h
+	<stdio.h>
+	<stdbool.h>
+
+1704324914 source:c:\users\ssdatlas\desktop\projet\miniprojet2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"followCourse.h"
+	"course.h"
+	"student.h"
+
+1704318236 c:\users\ssdatlas\desktop\projet\miniprojet2\student.h
+	<stdio.h>
+	<stdbool.h>
+
+1704324183 source:c:\users\ssdatlas\desktop\projet\miniprojet2\student.c
+	"student.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+
+1706735710 source:c:\users\pc click plus\downloads\miniprojet2,4\miniprojet2,4\course.c
+	"course.h"
+	"followCourse.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1706559935 c:\users\pc click plus\downloads\miniprojet2,4\miniprojet2,4\course.h
+	<stdio.h>
+	<stdbool.h>
+
+1706735854 source:c:\users\pc click plus\downloads\miniprojet2,4\miniprojet2,4\followcourse.c
+	"followCourse.h"
+	"course.h"
+	"student.h"
+	<stdlib.h>
+
+1706560797 c:\users\pc click plus\downloads\miniprojet2,4\miniprojet2,4\followcourse.h
+	<stdio.h>
+	<stdbool.h>
+
+1706559921 c:\users\pc click plus\downloads\miniprojet2,4\miniprojet2,4\student.h
+	<stdio.h>
+	<stdbool.h>
+
+1706736329 source:c:\users\pc click plus\downloads\miniprojet2,4\miniprojet2,4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	"followCourse.h"
+	"course.h"
+	"student.h"
+	"commandHandlers.h"
+
+1706735702 source:c:\users\pc click plus\downloads\miniprojet2,4\miniprojet2,4\student.c
+	"student.h"
+	"followCourse.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+
+1706735698 source:c:\users\pc click plus\downloads\miniprojet2,4\miniprojet2,4\commandhandlers.c
+	"student.h"
+	"course.h"
+	<stdlib.h>
+	"followCourse.h"
+
+1706598863 c:\users\pc click plus\downloads\miniprojet2,4\miniprojet2,4\commandhandlers.h
+
